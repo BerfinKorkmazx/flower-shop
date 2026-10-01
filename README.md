@@ -31,15 +31,27 @@ This project was developed as part of my front-end learning process. I practiced
 
 ### Homepage
 
-![Flower Shop Homepage](screenshots/homepage.png)
+![Flower Shop Homepage](screenshots/homepage.PNG)
+
+### About US
+
+![Flower Shop About Us](screenshots/aboutUs.PNG)
 
 ### Products
 
-![Flower Shop Products](screenshots/products.png)
+![Flower Shop Products](screenshots/products.PNG)
 
-### Mobile View
+### Customer's Review
 
-![Flower Shop Mobile View](screenshots/mobile.png)
+![Flower Shop Customer's Review](screenshots/customers.PNG)
+
+### Contact Us
+
+![Flower Shop Customer's Review](screenshots/contact.PNG)
+
+### Footer
+
+![Flower Shop Customer's Review](screenshots/footer.PNG)
 
 ## 🌐 Live Demo
 
